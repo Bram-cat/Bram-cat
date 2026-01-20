@@ -27,15 +27,27 @@ I'm a Computer Science student at **University of Prince Edward Island** with a 
 
 ## 💼 Professional Highlights
 
-```typescript
-const achievements = {
-  scale: "10,000+ daily requests on LoveLock AI",
-  performance: "75% latency reduction (12s → 3s) on Dreamboard AI",
-  impact: "$250K annual savings through LLM automation",
-  retention: "40% increase in 7-day user retention",
-  traffic: "25% surge in organic traffic through optimization"
-};
-```
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Scale & Performance
+- **10,000+** daily requests handled on LoveLock AI
+- **75%** latency reduction (12s → 3s) on Dreamboard AI
+- **Sub-second** LCP scores with custom caching
+
+</td>
+<td width="50%">
+
+### 💰 Business Impact
+- **$250K** annual savings through LLM automation
+- **40%** increase in 7-day user retention
+- **25%** surge in organic traffic
+- **30%** reduction in deployment errors
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -117,31 +129,94 @@ const achievements = {
 
 ## 🎯 What I'm Working On
 
-```javascript
-const currentFocus = {
-  learning: ["Vector Embeddings", "Edge Computing", "Microservices Architecture"],
-  building: ["Legal Scanner", "AI Automation Pipelines"],
-  exploring: ["Multi-region Cloud Architecture", "RAG Frameworks"],
-  improving: ["System Design", "Performance Optimization"]
-};
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Currently Learning
+```yaml
+- Vector Embeddings & Semantic Search
+- Edge Computing Architecture
+- Microservices Design Patterns
+- Advanced Redis Caching Strategies
 ```
+
+### 🔨 Currently Building
+```yaml
+- Legal Scanner (LLM Auditing Pipeline)
+- AI Automation Frameworks
+- RAG-based Knowledge Systems
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Exploring
+```yaml
+- Multi-region Cloud Architecture
+- Retrieval-Augmented Generation (RAG)
+- Elastic Load Balancing at Scale
+- Bayesian Forecasting Models
+```
+
+### 🎓 Improving
+```yaml
+- Distributed System Design
+- Performance Optimization Techniques
+- AI/ML Model Integration
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📈 Experience Snapshot
 
-🔹 **Web Developer** @ PEI Web Agency *(Nov 2024 - Mar 2025)*
-- Multi-agent AI orchestration with Vector Embeddings
-- 40% increase in project-start rates for 100+ developers
-- 30% reduction in production deployment errors
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-🔹 **Founder** @ LoveLock *(Apr 2025 - Jun 2025)*
-- 10,000+ daily requests at scale
-- 40% boost in user retention
+### 💼 Web Developer
+**PEI Web Agency**
+*Nov 2024 - Mar 2025*
 
-🔹 **Co-Founder** @ Dreamboard AI *(Jul 2025 - Sep 2025)*
-- 75% latency reduction globally
-- 40% reduction in infrastructure costs
+---
+
+🤖 Multi-agent AI orchestration
+📈 40% ↑ project-start rates
+🔧 30% ↓ deployment errors
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🚀 Lead Developer & Founder
+**LoveLock**
+*Apr 2025 - Jun 2025*
+
+---
+
+⚡ 10K+ daily requests
+📊 40% ↑ user retention
+⏱️ +3min session duration
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🎨 Co-Founder & Developer
+**Dreamboard AI**
+*Jul 2025 - Sep 2025*
+
+---
+
+🌍 75% ↓ latency globally
+☁️ 40% ↓ infrastructure costs
+⚙️ Edge computing optimization
+
+</td>
+</tr>
+</table>
 
 ---
 
