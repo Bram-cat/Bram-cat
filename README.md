@@ -15,9 +15,11 @@ I build practical AI-powered web and mobile products — student tools, local-bu
 
 ---
 
-<a href="https://bramdev.netlify.app/">
-  <img src="assets/portfolio-preview.png" alt="Ram portfolio homepage preview" width="100%" />
-</a>
+<div align="center">
+  <a href="https://bramdev.netlify.app/">
+    <img src="assets/portfolio-preview.png" alt="Ram portfolio homepage preview" width="82%" />
+  </a>
+</div>
 
 ---
 
