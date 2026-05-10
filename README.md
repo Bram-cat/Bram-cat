@@ -15,14 +15,6 @@ I build practical AI-powered web and mobile products — student tools, local-bu
 
 ---
 
-<div align="center">
-  <a href="https://bramdev.netlify.app/">
-    <img src="assets/portfolio-preview.png" alt="Ram portfolio homepage preview" width="82%" />
-  </a>
-</div>
-
----
-
 ## What I do
 
 - 🎓 Studying **Computer Science** at the **University of Prince Edward Island**
@@ -113,15 +105,12 @@ Learning:
 
 ---
 
-## GitHub snapshot
+## GitHub quick facts
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bram-cat&show_icons=true&theme=tokyonight&hide_border=true" alt="Ram's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bram-cat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
+- **23 public repos**
+- Mostly **TypeScript / Next.js / React Native / Expo**
+- Recent work includes **Trailflow, StudyPal, LoveLock, Dreamboard, LawScanner**
+- Portfolio: [bramdev.netlify.app](https://bramdev.netlify.app/)
 
 ---
 
